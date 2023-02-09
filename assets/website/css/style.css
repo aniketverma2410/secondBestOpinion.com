@@ -1,0 +1,57 @@
+@charset "utf-8";.fs-8{font-size:8px!important;}
+.fs-9{font-size:9px!important;}
+.fs-10{font-size:10px!important;}
+.fs-11{font-size:11px!important;}
+.fs-12{font-size:12px!important;}
+.fs-13{font-size:13px!important;}
+.fs-14{font-size:14px!important;}
+.fs-15{font-size:15px!important;}
+.fs-16{font-size:16px!important;}
+.fs-17{font-size:17px!important;}
+.fs-18{font-size:18px!important;}
+.fs-19{font-size:19px!important;}
+.fs-20{font-size:20px!important;}
+.fs-21{font-size:21px!important;}
+.fs-22{font-size:22px!important;}
+.fs-23{font-size:23px!important;}
+.fs-24{font-size:24px!important;}
+.fs-25{font-size:25px!important;}
+.fs-26{font-size:26px!important;}
+.fs-27{font-size:27px!important;}
+.fs-28{font-size:28px!important;}
+.fs-29{font-size:29px!important;}
+.fs-30{font-size:30px!important;}
+.fs-30{font-size:30px!important;}
+.fs-32{font-size:32px!important;}
+.fs-33{font-size:33px!important;}
+.fs-34{font-size:34px!important;}
+.fs-35{font-size:35px!important;}
+.fs-36{font-size:36px!important;}
+.fs-37{font-size:37px!important;}
+.fs-38{font-size:38px!important;}
+.fs-39{font-size:39px!important;}
+.fs-40{font-size:40px!important;}
+.fw100{font-weight:100}
+.fw200{font-weight:200}
+.fw300{font-weight:300}
+.fw400{font-weight:400}
+.fw500{font-weight:500}
+.fw600{font-weight:600}
+.fw700{font-weight:700}
+.fw800{font-weight:800}
+.black{color:#000!important;}
+.white{color:#fff!important;}
+.bg-white{background-color:#fff;}
+.bg-black{background-color:#000;}
+.row.sp15, .sp15{margin-left:-7.5px;margin-right:-7.5px;}
+.row.sp15 [class*="col-"], .sp15 [class*="col-"]{padding-left:7.5px;padding-right:7.5px;}
+.row.sp20, .sp20{margin-left:-9px;margin-right:-9px;}
+.row.sp20 [class*="col-"], .sp20 [class*="col-"]{padding-left:9px;padding-right:9px;}
+.bg{background-size:cover;min-height:calc(100vh);background-position:center center;background-image:linear-gradient(left, #f75305, #f98018);}
+.hide{display:none;}
+.show{display:none;}
+.p-half{padding:0.5px!important;}
+.mt100{margin-top:100px!important;}
+.box-shadow{border:0px solid #ddd!important;box-shadow:0px 0px 14px #555!important;}
+@media screen and (max-width:480px){.p0{padding:0px!important;}
+}

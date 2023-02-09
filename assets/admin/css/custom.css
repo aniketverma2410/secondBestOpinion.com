@@ -1,0 +1,7 @@
+.manage_divP, .divPadding{padding-left: 0px !important; padding-right: 0px !important; }
+.red, .user_err{color: red; }
+.set_lan_name{text-transform: capitalize;}
+textarea.form-control{resize: none;}
+.border_bottom{border-bottom: 1px solid #ddd; padding-bottom: 15px;}
+.cke_contents.cke_reset{height: 200px !important;}
+
